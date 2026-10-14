@@ -1,0 +1,1 @@
+console.log("my reflection during Intrams are to enjoy the games and on day 1 is to play the volleyball game and two wins and waiting the kalaban and second days is to the championship match and to play and win as a volleyball players to win");
